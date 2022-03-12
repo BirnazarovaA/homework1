@@ -1,0 +1,19 @@
+body {
+    background-color: #a6edd8;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    background-color: aliceblue;
+}
+button {
+    display: block;
+    margin: auto;
+}
